@@ -1,4 +1,4 @@
-String greeting = "Hello, everbody!";
+var greeting = "Hello, everbody!";
 
 var specialGuest = "Neil deGrasse Tyson"
 
